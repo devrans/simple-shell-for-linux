@@ -1,6 +1,7 @@
 # simple-shell-for-linux
 
 mysh have built-in functions:
+
   -cd [arg] changes working directory	
   -exit [n] closes shell with optional return code
   -help displays description of functions\n-version displays version  
