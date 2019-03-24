@@ -4,7 +4,8 @@ mysh have built-in functions:
 
   -cd [arg] changes working directory	
   -exit [n] closes shell with optional return code
-  -help displays description of functions\n-version displays version  
+  -help displays description of functions
+  -version displays version  
   -type [arg] displays information about command
   -echo [arg] displays entered text, if argument begins with '$' displays this environment variable
 
